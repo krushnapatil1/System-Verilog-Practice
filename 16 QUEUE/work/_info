@@ -1,0 +1,54 @@
+m255
+K4
+z2
+!s12c _opt1
+Z0 !s99 nomlopt
+!s11f vlog 2025.3 2025.09, Sep 15 2025
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/Krushna Hire/OneDrive/Desktop/KP SYSTEM VERILOG/16 QUEUE
+T_opt1
+!i145 1
+!i144 0
+!s110 1792300028
+VY]m`LaWcCc^J54J2cY@R92
+04 5 4 work queue fast 0
+=1-c03532420dd7-6ad453fb-3b8-5068
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U1 
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0 defaultOptions 1108163524
+n@_opt1
+OL;O;2025.3;82
+vqueue
+2queue.sv
+DXx6 sv_std 3 std 0 22 @5XbY]_OacJl=`ToSm<M^0
+!s110 1792300013
+!i10b 1
+!s100 Hj:c;O5f7Y;n2Zicz:b0j3
+I43]1WmTi]85c_>nUOYdck3
+S1
+R1
+w1792299997
+8queue.sv
+Fqueue.sv
+!i122 0
+L0 1 21
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2025.3;82
+r1
+!s85 0
+31
+!s108 1792300012.000000
+!s107 queue.sv|
+!s90 -sv|queue.sv|
+!i113 0
+o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0 defaultOptions 1085729624

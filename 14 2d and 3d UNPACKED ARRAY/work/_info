@@ -1,0 +1,98 @@
+m255
+K4
+z2
+!s12c _opt1
+Z0 !s99 nomlopt
+!s12c _opt
+R0
+!s11f vlog 2025.3 2025.09, Sep 15 2025
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/Krushna Hire/OneDrive/Desktop/KP SYSTEM VERILOG/14 2d and 3d UNPACKED ARRAY
+T_opt
+!i145 1
+!i144 0
+!s110 1792297491
+VZTn[X@QGk8ze;2zPcnh4a3
+04 17 4 work unpacked_array_2d fast 0
+=1-c03532420dd7-6ad44a11-3be-99c
+R0
+Z2 !s12f OEM100
+Z3 !s12b OEM100
+Z4 !s124 OEM10U1 
+Z5 !s135 nogc
+Z6 o-quiet -auto_acc_if_foreign -work work
+Z7 tCvgOpt 0 defaultOptions 1108163524
+n@_opt
+Z8 OL;O;2025.3;82
+R1
+T_opt1
+!i145 1
+!i144 0
+!s110 1792297667
+VVR6Elj:6dR:n>e;F[^`7=2
+04 17 4 work unpacked_array_3d fast 0
+=1-c03532420dd7-6ad44ac1-2c0-3c50
+R0
+R2
+R3
+R4
+R5
+R6
+R7
+n@_opt1
+R8
+vunpacked_array_2d
+Z9 2unpacked_array.sv
+Z10 DXx6 sv_std 3 std 0 22 @5XbY]_OacJl=`ToSm<M^0
+!s110 1792297443
+!i10b 1
+!s100 @0oU_5BIXUcf_5^D^c:;91
+IiBDi5[A3QHjZWP5I3^TdL3
+S1
+R1
+w1792297376
+Z11 8unpacked_array.sv
+Z12 Funpacked_array.sv
+!i122 0
+L0 3 24
+Z13 VDg1SIo80bB@j0V0VzS_@n1
+Z14 OL;L;2025.3;82
+r1
+!s85 0
+31
+!s108 1792297442.000000
+Z15 !s107 unpacked_array.sv|
+Z16 !s90 -sv|unpacked_array.sv|
+!i113 0
+Z17 o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z18 tCvgOpt 0 defaultOptions 1085729624
+vunpacked_array_3d
+R9
+R10
+!s110 1792297632
+!i10b 1
+!s100 W=Q=Vb9?LIPoS[56W;M593
+IPX<=WYoQ0X>f<I9om=aN:1
+S1
+R1
+w1792297605
+R11
+R12
+!i122 1
+L0 32 18
+R13
+R14
+r1
+!s85 0
+31
+!s108 1792297632.000000
+R15
+R16
+!i113 0
+R17
+R18

@@ -1,0 +1,28 @@
+# //  Questa Altera Starter FPGA Edition-64
+# //  Version 2025.3 win64 Sep 15 2025
+# //
+# // Unpublished work. Copyright 2025 Siemens
+# //
+# // This material contains trade secrets or otherwise confidential information
+# // owned by Siemens Industry Software Inc. or its affiliates (collectively,
+# // "SISW"), or its licensors. Access to and use of this information is strictly
+# // limited as set forth in the Customer's applicable agreements with SISW.
+# //
+# // This material may not be copied, distributed, or otherwise disclosed outside
+# // of the Customer's facilities without the express written permission of SISW,
+# // and may not be used in any way not expressly authorized by SISW.
+# //
+# ** Note: (vsim-220) 'C:/altera_pro/26.1.1/questa_fse/win64/../modelsim.ini' is used as the ini file.
+# vsim work.assos_array 
+# Start time: 10:58:27 on Oct 18,2026
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Note: (vopt-220) 'C:/altera_pro/26.1.1/questa_fse/win64/../modelsim.ini' is used as the ini file.
+# Loading sv_std.std
+# Loading work.assos_array(fast)
+run -all
+# The value of assos array is '{0:1, 499967947364:3, 126879297138276:2 }
+# Assos[first] = 10
+# Assos[second] = 20
+# Assos[third] = 30
+# End time: 11:02:14 on Oct 18,2026, Elapsed time: 0:03:47
+# Errors: 0, Warnings: 0
